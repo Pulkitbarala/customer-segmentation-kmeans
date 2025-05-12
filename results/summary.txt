@@ -1,0 +1,3 @@
+Customer Segmentation Analysis
+Optimal number of clusters: 5
+Cluster plot saved at: results/cluster_plots/customer_segments.png
